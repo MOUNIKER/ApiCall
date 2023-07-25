@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC1462D8-FBC7-4256-872F-ABA3C43E8335"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5E2D176-04EC-4292-97AA-2180C4CCD59B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiCall/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E5E2D176-04EC-4292-97AA-2180C4CCD59B - f2e18c6ae8875c9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ApiCall.ViewController"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  uuid = "E5E2D176-04EC-4292-97AA-2180C4CCD59B - bb0512b2775ada6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ApiCall.ViewController&gt;"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8B05920-8AEB-49F5-8781-E6080653114E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiCall/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B8B05920-8AEB-49F5-8781-E6080653114E - f846d7302a0890ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.albums.getter : Swift.Array&lt;ApiCall.Albums&gt;"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "B8B05920-8AEB-49F5-8781-E6080653114E - c7fa4b32b284c4aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.albums.setter : Swift.Array&lt;ApiCall.Albums&gt;"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B8B05920-8AEB-49F5-8781-E6080653114E - 659bc3db10d0d5ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.albums.modify : Swift.Array&lt;ApiCall.Albums&gt;"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B8B05920-8AEB-49F5-8781-E6080653114E - 21d7b49d33e4637e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.albums.modify : Swift.Array&lt;ApiCall.Albums&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B8B05920-8AEB-49F5-8781-E6080653114E - f2e18c6ae8875cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ApiCall.ViewController"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "B8B05920-8AEB-49F5-8781-E6080653114E - bb0512b2775ada2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ApiCall.ViewController&gt;"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9129E21-DBE1-48E8-A9F6-4531ABA2507C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiCall/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "758D6740-3F5A-4535-98AE-EAF4F8E80D66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiCall/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4254E108-F20C-4450-9996-919162B8354D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiCall/albumManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getAlbums(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4254E108-F20C-4450-9996-919162B8354D - f68a7ccd41fbb010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.AlbumManager.getAlbums(completion: (Swift.Result&lt;Swift.Array&lt;ApiCall.Albums&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/albumManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "4254E108-F20C-4450-9996-919162B8354D - f68a7ccd41fbb010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApiCall.AlbumManager.getAlbums(completion: (Swift.Result&lt;Swift.Array&lt;ApiCall.Albums&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/albumManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C27359BF-CAD2-4F40-B6AB-EE11F45ABF38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApiCall/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C27359BF-CAD2-4F40-B6AB-EE11F45ABF38 - 2e01df60d0407888"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ApiCall.Albums&gt;, Swift.Error&gt;) -&gt; () in ApiCall.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "C27359BF-CAD2-4F40-B6AB-EE11F45ABF38 - ed7d700a34ff461c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;ApiCall.Albums&gt;, Swift.Error&gt;) -&gt; () in ApiCall.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ApiCall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/narasimha/Desktop/ApiCall/ApiCall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
